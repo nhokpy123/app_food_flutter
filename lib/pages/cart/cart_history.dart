@@ -91,7 +91,7 @@ class CartHistory extends StatelessWidget {
                                   image: DecorationImage(
                                     image: NetworkImage(AppConstants.BASE_URL +
                                         AppConstants.UPLOAD_URL
-                                        // + _cartList[index].img!
+                                        + product.img!
                                     ),
                                     fit: BoxFit.cover,
                                   ),
