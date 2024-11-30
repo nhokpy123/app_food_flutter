@@ -3,7 +3,7 @@ class AppConstants {
   static const int APP_VERSION = 1;
 
   static const String BASE_URL = "http://localhost:3030";//muon' thay' anh? trong database thi`
-  // doi? localhost thanh` idv4 cua? wifi nha thay`
+  // doi? localhost thanh` idv4 cua? wifi roi` chay. bang` gia? lap. android nha thay`......
   static const String POPULAR_PRODUCT_URI = "/api/products/allpopular";
   static const String RECOMMEND_PRODUCT_URI = "/api/recommends/testrecommended";
   static const String UPLOAD_URL = "/uploads/";
